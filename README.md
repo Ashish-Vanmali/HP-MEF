@@ -14,6 +14,10 @@ https://zenodo.org/records/7861544
 
 https://ivc.uwaterloo.ca/database/MEF.html
 
+https://www.hdrsoft.com/download/bracketed-photos-samples.html
+
+
+
 
 
 
