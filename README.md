@@ -26,6 +26,12 @@ https://www2.cs.sfu.ca/~colour/data/funt_hdr/
 
 https://www.cl.cam.ac.uk/~rkm38/local_area/local_area.html
 
+https://research.google/blog/introducing-the-hdr-burst-photography-dataset/
+
+https://drive.google.com/file/d/1GlOoGBVdkfCEVDt7o-RY2gH_zs9WHoo8/view
+
+
+
 
 
 
